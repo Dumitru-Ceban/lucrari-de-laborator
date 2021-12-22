@@ -1,0 +1,13 @@
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.csprojAssemblyReference.cache
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfoInputs.cache
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.AssemblyInfo.cs
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.csproj.CoreCompileInputs.cache
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.exe
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.deps.json
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.json
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.runtimeconfig.dev.json
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.dll
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\bin\Debug\netcoreapp3.1\lab7.pdb
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.dll
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.pdb
+D:\DeskTop\Lucrări de laborator\Anul2-1\POO\lab7\obj\Debug\netcoreapp3.1\lab7.genruntimeconfig.cache
